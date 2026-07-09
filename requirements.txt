@@ -5,3 +5,4 @@ imbalanced-learn
 tensorflow
 matplotlib
 seaborn
+nltk
